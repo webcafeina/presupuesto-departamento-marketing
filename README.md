@@ -2,7 +2,7 @@
 
 Presentación comercial de Webcafeína para Zeri's Coffee (dirección de marketing + redes + propuesta Roaster).
 
-🔗 **Ver online:** https://webcafeina.github.io/zeris-pitch/
+🔗 **Ver online:** https://webcafeina.github.io/presupuesto-departamento-marketing/
 
 Página estática (HTML + assets). Publicada vía GitHub Pages.
 
